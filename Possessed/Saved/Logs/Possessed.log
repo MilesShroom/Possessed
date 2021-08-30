@@ -1373,3 +1373,57 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.30-14.50.28:045][  0]LogAssetRegistry: Asset discovery search completed in 105.3913 seconds
 [2021.08.30-14.50.28:046][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
 [2021.08.30-14.50.28:047][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.30-14.56.32:449][429]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.30-14.56.32:456][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.30-14.56.32:456][429]PIE: New page: PIE session: FirstPersonExampleMap (Aug 30, 2021, 2:56:32 AM)
+[2021.08.30-14.56.32:456][429]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.30-14.56.32:457][429]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.30-14.56.32:457][429]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.08.30-14.56.32:481][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024655s)
+[2021.08.30-14.56.32:482][429]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.08.30-14.56.32:482][429]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2021.08.30-14.56.32:483][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025868s)
+[2021.08.30-14.56.32:493][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.30-14.56.32:495][429]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.30-14.56.32:495][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.30-14.56.32:495][429]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.30-14.56.32:495][429]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.30-14.56.32:495][429]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2021.08.30-14.56.32:539][429]LogAudioMixerSDL: Opening default audio device (device index -1)
+[2021.08.30-14.56.32:540][429]LogAudioMixer: Display: Using Audio Device Default Audio Device
+[2021.08.30-14.56.32:540][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.30-14.56.32:540][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.30-14.56.32:541][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.30-14.56.32:542][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144
+[2021.08.30-14.56.32:543][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.30-14.56.32:543][429]LogInit: FAudioDevice initialized.
+[2021.08.30-14.56.32:543][429]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonExampleMap'.
+[2021.08.30-14.56.32:549][429]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.08.30-14.56.32:554][429]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.08.30-08.56.32
+[2021.08.30-14.56.32:554][429]LogWorld: Bringing up level for play took: 0.004911
+[2021.08.30-14.56.32:555][429]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.08.30-14.56.33:329][429]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2021.08.30-14.56.33:336][429]PIE: Server logged in
+[2021.08.30-14.56.33:337][429]PIE: Play in editor total start time 0.885 seconds.
+[2021.08.30-14.56.39:062][774]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1413.484 Y=-77.959 Z=314.381] for [FirstPersonProjectile_C]
+[2021.08.30-14.56.45:863][182]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1289.732 Y=851.064 Z=356.243] for [FirstPersonProjectile_C]
+[2021.08.30-14.56.46:435][216]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1284.736 Y=853.093 Z=344.752] for [FirstPersonProjectile_C]
+[2021.08.30-14.56.46:679][231]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1277.802 Y=872.467 Z=321.240] for [FirstPersonProjectile_C]
+[2021.08.30-14.57.00:805][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.30-14.57.00:805][ 76]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.08.30-14.57.00:806][ 76]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.30-14.57.00:806][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.30-14.57.00:827][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.30-14.57.00:886][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.30-14.57.00:892][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.30-14.57.00:924][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.30-14.57.00:928][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.08.30-14.57.00:934][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.08.30-14.57.00:999][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_1
